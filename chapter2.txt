@@ -1,7 +1,5 @@
 It was the age of wisdom, It was the age of foolisheness
-<<<<<<< HEAD
 This is in Master 
-=======
 I am in Branch Alien-plot
 I am in Branch Alien-plot
->>>>>>> alient-plot
+
