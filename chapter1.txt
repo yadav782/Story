@@ -1,2 +1,6 @@
 Hi, First Line
+<<<<<<< HEAD
 This is in Master 
+=======
+I am in Branch Alien-plot
+>>>>>>> alient-plot
