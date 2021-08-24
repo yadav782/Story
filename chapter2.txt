@@ -1,13 +1,1 @@
 It was the age of wisdom, It was the age of foolisheness  alien plot2
-<<<<<<< HEAD
-
-
-
-
-
-
-=======
-This is in Master 
->>>>>>> master
-I am in Branch Alien-plot
-I am in Branch Alien-plot

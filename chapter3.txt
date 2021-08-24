@@ -1,21 +1,2 @@
 It was the spring of Hope, It was the winter of despair  alien plot2
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-I am in Branch Alien-plot
-I am in Branch Alien-plot
-I am in Branch Alien-plot
-
-[16:24] Hellner Filip (SEIT)
-    Just got confirmation from LF that they only sent C/I status 
-=======
-This is in Master 
->>>>>>> master
 
